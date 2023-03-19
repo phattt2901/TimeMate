@@ -12,6 +12,8 @@ TimeMate is a JavaScript library built on top of Moment.js that provides additio
 ## Usage
 
 To use TimeMate in your application, simply include the library in your project and start using its functions. For example:
+### GetTimeFrame
+
 
 ## Contributing
 
