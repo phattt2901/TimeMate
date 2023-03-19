@@ -42,7 +42,7 @@ timeMate.GetTimeFrame(moment("01/01/2023","DD/MM/YYYY"),moment("05/04/2023","DD/
 **Start date and End date is not valid**:
 ```
 {
-    message: Start date and End date is not valid"
+    message: "Start date and End date is not valid"
 }
 ```
 **Start date is after End date**:
