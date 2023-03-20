@@ -48,7 +48,7 @@ timeMate.GetTimeFrame(moment("01/01/2023","DD/MM/YYYY"),moment("05/04/2023","DD/
 **Start date is after End date**:
 ```
 {
-    message: "Start date need before End Date"
+    message: "Start date need before End date"
 }
 ```
     
